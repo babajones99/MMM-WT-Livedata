@@ -1,3 +1,27 @@
-.MMM-Template div {
-    color: purple;
+.MMM-WT-Livedata div .onTime{
+    color: green;
 }
+
+.MMM-WT-Livedata div .delayed{
+    color: red;
+}
+
+.MMM-WT-Livedata div .cancelled{
+    text-decoration: line-through;
+}
+
+.MMM-WT-Livedata div header{
+    border-bottom: 1px solid var(--color-text-dimmed);
+}
+
+.MMM-WT-Livedata div table .line{
+    background-color: rgb(0, 83, 0);
+    width: 50px;
+}
+
+.MMM-WT-Livedata table,td,th{
+    border-spacing: 8px;
+    text-align: center;
+}
+
+

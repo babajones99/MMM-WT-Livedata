@@ -1,9 +1,7 @@
-# MMM-Template
-Use this template for creating new MagicMirror² modules.
+# MMM-WT-Livedata
+Module to display realtime departure times for stations in Westfalentarif in Germany
 
-See the [wiki page](https://github.com/Dennis-Rosenbaum/MMM-Template/wiki) for an in depth overview of how to get started.
-
-# MMM-Template
+# MMM-WT-Livedata
 
 ![Example of MMM-Template](./example_1.png)
 

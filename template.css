@@ -1,9 +1,9 @@
 .MMM-WT-Livedata div .onTime{
-    color: green;
+    color: rgb(111, 255, 111);
 }
 
 .MMM-WT-Livedata div .delayed{
-    color: red;
+    color: rgb(255, 132, 132);
 }
 
 .MMM-WT-Livedata div .cancelled{

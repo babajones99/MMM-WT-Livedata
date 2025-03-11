@@ -19,7 +19,7 @@
     width: 50px;
 }
 
-.MMM-WT-Livedata table,td,th{
+.MMM-WT-Livedata div table,td,th{
     border-spacing: 8px;
     text-align: center;
 }
